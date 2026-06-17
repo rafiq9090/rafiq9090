@@ -62,23 +62,33 @@ I build AI-driven systems (RAG pipelines, computer vision with Roboflow, Kaggle 
 
 ## 📌 Featured Projects
 
+### 🛒 e-commerce (DeshShera)
+🔗 https://github.com/rafiq9090/e-commerce
+Full-stack e-commerce platform with customer storefront and admin panel. Product/category/promotion management, order tracking, bKash/Nagad/COD payments, Steadfast courier integration.
+**Stack:** React + Vite + Tailwind, Node.js + Express + Prisma (MySQL), Docker.
+
+### 📰 news-portal
+🔗 https://github.com/rafiq9090/news-portal
+Go-based news portal backend.
+**Stack:** Go, Docker.
+
+### 🤖 RAG-learning
+🔗 https://github.com/rafiq9090/RAG-learning
+RAG system for extracting and querying PDF documents, with table-aware parsing for accurate retrieval.
+**Stack:** Python, LangChain, Groq (Llama 3.3 70B), ChromaDB, HuggingFace Embeddings, pdfplumber.
+
+### 🎬 springboot-movie-backend
+🔗 https://github.com/rafiq9090/springboot-movie-backend
+Movie backend service built on Spring Boot.
+**Stack:** Java, Spring Boot, Maven.
+
+### 🎥 videogen-model
+🔗 https://github.com/rafiq9090/videogen-model
+Image-to-video generation notebook/model.
+**Stack:** Python, Jupyter Notebook.
+
 ### 🚀 go-auto-scaling-backend
 Production-style Golang backend with Docker, Kubernetes, and Horizontal Auto Scaling (HPA), built locally using Minikube.
-
-### 📷 Photo_Editor
-Java-based photo editing app.
-
-### 🌐 LanguageTranslator
-Java-based translation tool.
-
-### 📚 Kids_Learning_BookApp
-Java-based learning app for kids.
-
-### 🖼️ Wallpaper
-Java wallpaper app.
-
-### 📱 OneApp
-Dart cross-platform app.
 
 ---
 
