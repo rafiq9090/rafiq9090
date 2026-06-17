@@ -26,13 +26,16 @@ I build AI-driven systems (RAG pipelines, computer vision with Roboflow, Kaggle 
 
 ### 💻 Backend & Systems
 - **Go** — backend services, Docker, Kubernetes, Horizontal Pod Autoscaling
+- **Java (Spring Boot)** — REST APIs
 - **Java** — desktop/Android apps
 
 ### 🗄️ DevOps
 - Docker, Kubernetes (Minikube)
+- AWS
 
-### 📱 Mobile
-- **Dart** — cross-platform app development
+### 📱 Mobile / Android
+- **Flutter** & **Dart** — cross-platform apps
+- **Native Java** — Android app development
 
 ### 🌐 Frontend
 - **React.js**, **Next.js**, **Nuxt.js**
