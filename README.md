@@ -1,20 +1,28 @@
 # 👋 Hi, I'm Md Rafiqul Islam
 
-💻 **Software Developer | Backend & Cloud Systems**
+🤖 **AI Engineer | Python, RAG, Kaggle, Roboflow**
+💻 **Backend Dev | Go, Java, Dart | Docker & Kubernetes**
 
-I build backend systems and apps across Go, Java, and Dart, with hands-on infra work in Docker and Kubernetes.
+I build AI-driven systems (RAG pipelines, computer vision with Roboflow, Kaggle competitions) and scalable backend services across Go, Java, and Dart, with infra work in Docker and Kubernetes.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Developer working across backend services and mobile/desktop apps
+- 🤖 AI Engineer focus: Python, RAG systems, Kaggle, Roboflow (computer vision)
+- 💼 Backend developer across Go, Java, Dart
 - 🏗️ Hands-on experience with container orchestration (Docker, Kubernetes, HPA)
 - ⚡ Focused on clean, production-style project setups
 
 ---
 
 ## 🛠️ Technical Expertise
+
+### 🤖 AI & Data
+- **Python** — AI/ML development
+- **RAG (Retrieval-Augmented Generation)** — LLM pipelines
+- **Kaggle** — competitions & datasets
+- **Roboflow** — computer vision / object detection
 
 ### 💻 Backend & Systems
 - **Go** — backend services, Docker, Kubernetes, Horizontal Pod Autoscaling
@@ -25,6 +33,12 @@ I build backend systems and apps across Go, Java, and Dart, with hands-on infra 
 
 ### 📱 Mobile
 - **Dart** — cross-platform app development
+
+### 🌐 Frontend
+- **React.js**, **Next.js**, **Nuxt.js**
+
+### 🟢 Node.js Backend
+- **Node.js (Express)** — REST APIs & microservices
 
 ---
 
